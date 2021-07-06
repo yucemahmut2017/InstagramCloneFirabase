@@ -1,7 +1,7 @@
 # InstagramCloneFirabase
 
 
-Getting Started
+#Getting Started
 To use the Cloud Storage Android SDK with Kotlin Extensions, add the following to your app's build.gradle file:
 
 
