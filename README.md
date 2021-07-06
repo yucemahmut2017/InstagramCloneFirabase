@@ -33,5 +33,8 @@ All Gradle commands should be run from the source root (which is one level up fr
 - Upload files
 - Download files
 - Use file metadata
-[I'm an inline-style link](https://www.google.com)
+
+
+# Links
+[Firebase](https://firebase.google.com/docs/storage)
 
