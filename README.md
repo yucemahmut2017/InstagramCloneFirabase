@@ -26,7 +26,7 @@ Cloud Storage for Firebase is a powerful, simple, and cost-effective object stor
 
 All Gradle commands should be run from the source root (which is one level up from this folder). See the README.md in the source root for instructions on publishing/testing Firebase Storage.
 
-####Feature
+#Feature
 
 - Firebase Authentication usage
 - Create references
